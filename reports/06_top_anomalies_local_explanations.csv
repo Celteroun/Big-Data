@@ -1,0 +1,6 @@
+row_index,anomaly_score,final_risk_level,top_drivers
+862299,-0.21070690054498187,alto,"cost_per_min (|z|=1712.24), cost_per_km (|z|=391.61), total_amount (|z|=23.24), risk_score (|z|=10.03), fare_to_total_ratio (|z|=2.91)"
+765810,-0.20961124037376522,alto,"cost_per_min (|z|=3822.78), cost_per_km (|z|=436.91), total_amount (|z|=26.07), risk_score (|z|=10.03), fare_to_total_ratio (|z|=2.97)"
+360498,-0.2079705275182755,alto,"cost_per_min (|z|=3055.31), cost_per_km (|z|=49.79), total_amount (|z|=17.48), risk_score (|z|=10.03), fare_to_total_ratio (|z|=2.96)"
+459217,-0.2079705275182755,alto,"cost_per_min (|z|=807.78), cost_per_km (|z|=39.53), risk_score (|z|=10.03), total_amount (|z|=6.21), passenger_count (|z|=4.10)"
+332610,-0.2079705275182755,alto,"cost_per_min (|z|=1492.10), cost_per_km (|z|=36.47), risk_score (|z|=12.04), total_amount (|z|=7.92), fare_to_total_ratio (|z|=2.94)"
